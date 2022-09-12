@@ -1,7 +1,7 @@
 package ch05.sec05;
 
 public class EqualsExample {
-    public static void main(String ars) {
+    public static void main(String[] ars) {
         String strVar1 = "홍길동";
         String strVar2 = "홍길동";
 
