@@ -2,7 +2,8 @@ package Problem.part2;
 
 public class Ch05Num9 {
     public static void main(String[] args) {
-/*        Scanner sc = new Scanner(System.in);
+/*
+        Scanner sc = new Scanner(System.in);
 
         while (true) {
             System.out.println("--------------------------------------------------");
@@ -42,6 +43,7 @@ public class Ch05Num9 {
                 System.out.println("프로그램 종료");
                 break;
             }
-        }*/
+        }
+*/
     }
 }
